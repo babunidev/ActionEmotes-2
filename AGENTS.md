@@ -1,6 +1,6 @@
-# Buxbrew — development and attribution rules
+# Action Emotes #2 — development and attribution rules
 
-**Human creative author:** Babuni.dev. Keep the character voice, original author credit and Git development history intact.
+**By:** Babuni. Keep the character voice, original author credit and Git development history intact.
 
 ## Scope and working agreements
 
@@ -20,3 +20,9 @@
 - `SendChatMessage(..., "EMOTE")` posts text: it does not carry out the described animation.
 - Reproduce verified test steps and results, not assumptions.
 - No automated license inference: the inspected repository contains no `LICENSE` file.
+
+## Current naming and publication voice
+
+The repository is **ActionEmotes-2**, displayed publicly as **Action Emotes #2**. Its historical installed addon and source files are **Buxbrew**, with internal `MadAxeBuxbrew` identifiers; preserve them until an explicitly approved code migration. This is a distinct project from Action Emotes #1.
+
+Use **Babuni** for the human identity and **babuni.dev** for the portfolio/platform. Tell public-facing project stories from Babuni's first-person point of view. Never begin a narrative sentence with `I` or `My`; weave first-person pronouns naturally. Use “creative” for a human role label, not “creator.” Accurately credit AI for research, code or writing where documented, without inventing original conversations or tests. Technical references may use neutral voice.
