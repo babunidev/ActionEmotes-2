@@ -1,6 +1,6 @@
-# Buxbrew — design decisions, evidence and uncertainties
+# Action Emotes #2 — design decisions, evidence and uncertainties
 
-**Creative authority:** Babuni.dev.  
+**Creative authority:** Babuni.  
 **Evidence standard:** actual README, Lua/TOC, and Git diffs distinguish implementation from historical approvals.
 
 ## Observable creative and technical choices
@@ -32,3 +32,7 @@ An early manifest edit (`7d24dfd`) changed title and loaded filename to Buxbrew.
 5. Should the repository be distributed under an explicit software license?
 
 No game rules were changed and no new feature choice was made in this documentation pass.
+
+## November 2026 — project identity
+
+The repository was renamed **ActionEmotes-2** at my direction, with the display title **Action Emotes #2**. The installed addon still uses the original **Buxbrew** and `MadAxeBuxbrew` identifiers. My AI assistant updated the documentation; no runtime migration was attempted. This remains separate from **Action Emotes #1**.
