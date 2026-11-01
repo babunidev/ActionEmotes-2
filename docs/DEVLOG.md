@@ -1,15 +1,17 @@
-# Buxbrew — creative and technical development journal
+# Action Emotes #2 — creative and technical development journal
 
-**Creative author:** Babuni.dev  
+**By:** Babuni  
 **Prepared from:** `Buxbrew.lua`, `Buxbrew.toc`, README and selected GitHub commits, reviewed 2026-10-26. Where no original conversation exists in the available evidence, this is a **retrospective reconstruction**, not a transcript.
 
-## A character that interrupts the ordinary rhythm of play
+## Giving my character a voice through ordinary play
+
+The second Action Emotes project became a way for me to attach more elaborate roleplay text to an action button. Unlike my first experiment, the current source uses a large pool of custom-written emote lines. The original repository was named **Buxbrew**, while the Lua retained the working name **MadAxeBuxbrew**.
 
 The most striking thing in the current Buxbrew addon is that it is not trying to solve a practical combat problem. Its 215 lines are not damage calculations or cooldown reminders. They are small performances: laughing, stomping, spinning a weapon, roaring, shifting a stance, or letting the thrill of the encounter become public character text.
 
 The code attaches that writing to an ordinary action-bar button. Pressing it still sends the action through WoW's original `UseAction`; in the same moment, a randomly selected line may appear as an in-world text emote if a 90-second cooldown has elapsed. The creative result is a kind of spontaneous character narration: the player does not have to pause mid-fight to type out an elaborate performance.
 
-This account of the **implemented effect** is supported by the current code. No surviving original design conversation in the inspected repository confirms exactly how Babuni.dev first described the idea, so the journal does not invent that conversation.
+This account of the **implemented effect** is supported by the current code. No surviving original design conversation in the inspected repository confirms exactly how Babuni first described the idea, so the journal does not invent that conversation.
 
 ## 12 September 2025: MadAxeBuxbrew enters Git
 
@@ -45,4 +47,8 @@ In this review, an AI assistant inspected the actual source, manifest and select
 
 **Not grounded:** why exactly 90 seconds was chosen, who authored every original sentence, the full pre-Git evolution of v2.5.5, the creator's detailed reasoning about October's new tone, canonical identity across separate Buxbrew lore, or an in-client pass/fail result.
 
-Keeping those distinctions is part of preserving Babuni.dev's creative authorship without manufacturing a more convenient development legend.
+Keeping those distinctions is part of preserving Babuni's creative authorship without manufacturing a more convenient development legend.
+
+## November 2026 — Action Emotes #2
+
+Having chosen **Action Emotes #1** for my earliest action-slot experiment, I renamed this GitHub repository from **Buxbrew** to **ActionEmotes-2**. The new name places these related experiments in a recognizable sequence without claiming they share the same code or installation requirements. At my request, my AI assistant updated the documentation and repository references. The installed addon remains **Buxbrew**, with its existing Lua, TOC, saved variables and `/mae` commands. No game functionality was changed or verified in this documentation pass.
