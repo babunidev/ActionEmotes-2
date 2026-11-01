@@ -1,6 +1,6 @@
-# Buxbrew — roadmap and verification
+# Action Emotes #2 — roadmap and verification
 
-**Author:** Babuni.dev  
+**Author:** Babuni  
 **Status of items below:** proposed checks and questions, not approved feature commitments.
 
 ## Current snapshot
@@ -25,7 +25,7 @@
 
 Record build, addon load order, steps, logs/observed output and exact commit for each result.
 
-## Decisions for Babuni.dev (not automatically authorized)
+## Decisions for Babuni (not automatically authorized)
 
 - Keep the exact 90-second timing or offer a user-facing interval?
 - Keep current text voice, restore any particular earlier phrasing, or curate more thematic groups?
