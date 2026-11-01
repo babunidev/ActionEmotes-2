@@ -1,13 +1,15 @@
-# Buxbrew — MadAxe character emotes
+# Action Emotes #2 — formerly Buxbrew
 
-**Creator and author:** Babuni.dev  
+**By:** Babuni  
 **Target client:** World of Warcraft 1.12 / interface `11200`  
 **Declared addon version:** 2.5.5  
 **Runtime verification:** Not tested in this documentation review.
 
-Buxbrew adds an in-character flourish to an ordinary action-bar press. It watches one chosen action slot and occasionally sends one randomly selected custom roleplay emote to WoW's `EMOTE` chat channel. The current source contains **215 unique emote lines**: roaring, laughing, stomping, rallying, clanging armor, and celebrating the joy of combat.
+For **Action Emotes #2**, I developed a character-focused successor to my first Action Emotes experiment. The addon, historically packaged as **Buxbrew**, adds an in-character flourish to an ordinary action-bar press. It watches one chosen action slot and occasionally sends one randomly selected custom roleplay emote to WoW's `EMOTE` chat channel. The current source contains **215 unique emote lines**: roaring, laughing, stomping, rallying, clanging armor, and celebrating the joy of combat.
 
 The Lua file still calls itself `MadAxeBuxbrew`, while the packaged addon is simply **Buxbrew**. This is a character-voice project—not a combat rotation tool, not an automatic attack system, and not a collection of animation or sound assets.
+
+The GitHub repository is now [ActionEmotes-2](https://github.com/babunidev/ActionEmotes-2). The actual installed addon has **not** been renamed: it still uses `Buxbrew.lua`, `Buxbrew.toc`, `MadAxeBuxbrewDB` and `/mae`. I am preserving that distinction rather than implying the runtime has been migrated.
 
 ## Set up and use
 
@@ -40,7 +42,7 @@ The cooldown is fixed in source. There is no in-game text editor, custom chance 
 - **Roleplay delivery:** sending to `EMOTE` depends on the game's chat rules. These lines describe actions; the addon does not physically animate its described weapon flourishes.
 - **License:** no `LICENSE` file was present in the inspected repository. Do not assume a license without the creator's choice.
 
-## Where the project came from
+## Where my project came from
 
 The repository began in September 2025 with the internal name **MadAxeBuxbrew**. Its original texts combined playful combat and overt tavern comedy. An October 2025 source revision changed many lines toward weapon-and-armor gestures and substantially expanded the pool. The present `Buxbrew.lua` contains 215 individual emotes.
 
