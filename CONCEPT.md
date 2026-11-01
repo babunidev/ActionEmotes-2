@@ -1,15 +1,15 @@
-# Buxbrew — creative concept
+# Action Emotes #2 — creative concept
 
-**Creative owner:** Babuni.dev  
+**By:** Babuni  
 **Working identity in source:** MadAxeBuxbrew
 
 ## A personality expressed through ordinary play
 
-Buxbrew is a small expressive roleplay layer for World of Warcraft. A player already presses an action button; the addon sometimes accompanies that moment with written physicality—laughter that sounds like a battle horn, boots stomping in rhythm, weapons raised in delight, proud stances and contagious confidence. The action is not replaced. The addon adds a voice around it.
+For this second Action Emotes project, I explored custom-written character expression rather than only built-in emote tokens. The original **Buxbrew** addon is a small expressive roleplay layer for World of Warcraft. A player already presses an action button; the addon sometimes accompanies that moment with written physicality—laughter that sounds like a battle horn, boots stomping in rhythm, weapons raised in delight, proud stances and contagious confidence. The action is not replaced. The addon adds a voice around it.
 
 The current writing style is deliberately **larger than life**, chiefly joyous rather than grim. The emotes use a female third-person viewpoint (“her”) and repeatedly combine exuberance with combat imagery. They present the character as someone who enjoys the fray as a celebration.
 
-The source and historical revisions support this reading of the writing; they do not supply a transcript of Babuni.dev's original motivation. Treat this as a **source-based interpretation of the implemented character voice**, not an invented first-person creator quote.
+The source and historical revisions support this reading of the writing; they do not supply a transcript of Babuni's original motivation. Treat this as a **source-based interpretation of the implemented character voice**, not an invented first-person creator quote.
 
 ## What makes this more than a random quote generator
 
@@ -23,7 +23,7 @@ The source and historical revisions support this reading of the writing; they do
 
 The first uploaded version (2025-09-12) was already labeled version 2.5.5 and used the **MadAxeBuxbrew** identity. Its writing included fist fighting, tavern props and bawdier metaphors. A 2025-10-02 change rewrote many lines in terms of weapons, gauntlets and armor, shifting the recorded voice toward more general warrior spectacle. The new pool was also longer.
 
-This is a **documented textual change**, not evidence of a specific disagreement, moderation incident or formal decision. The creator retains authority over how that transition should ultimately be narrated.
+This is a **documented textual change**, not evidence of a specific disagreement, moderation incident or formal decision. The exact motivation behind that text revision is not recovered, so my project history records the observed change without inventing the reason.
 
 ## Scope
 
