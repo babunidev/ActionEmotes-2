@@ -1,6 +1,6 @@
-# Buxbrew — interaction and character-voice design
+# Action Emotes #2 — interaction and character-voice design
 
-**Creative author:** Babuni.dev
+**Creative author:** Babuni
 
 ## The interaction
 
