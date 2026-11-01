@@ -52,3 +52,7 @@ Keeping those distinctions is part of preserving Babuni's creative authorship wi
 ## November 2026 — Action Emotes #2
 
 Having chosen **Action Emotes #1** for my earliest action-slot experiment, I renamed this GitHub repository from **Buxbrew** to **ActionEmotes-2**. The new name places these related experiments in a recognizable sequence without claiming they share the same code or installation requirements. At my request, my AI assistant updated the documentation and repository references. The installed addon remains **Buxbrew**, with its existing Lua, TOC, saved variables and `/mae` commands. No game functionality was changed or verified in this documentation pass.
+
+## 1 November 2026 — the written-emote branch in context
+
+Comparing these projects again made the distinction clearer: this one gave my character a library of written actions, not an expandable registry of game-native emotes. My AI assistant checked the 215-line source against the fixed battle-emote pools, the later Roar Guild registry and Flourish Forever's spell-aware controls. The [shared history](EMOTE_FAMILY_HISTORY.md) records the branches without suggesting a missing conversation or direct code succession. Documentation was revised; no runtime tests or code edits were made.

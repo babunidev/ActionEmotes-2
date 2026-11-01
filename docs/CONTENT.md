@@ -42,3 +42,7 @@ Avoid publishing older lines in a portfolio without checking whether Babuni wish
 - If content is revised, link the exact commit and explain which voice, metaphor or limitation changed and why, based on an actual creator decision.
 - Do not treat source text as an automatic performance test of the chat system.
 - Do not conflate this character's story with other Buxbrew lore purely on the basis of a shared name.
+
+## Related development history
+
+Action Emotes #2 (Buxbrew/MadAxeBuxbrew) is the **written-roleplay branch** of the same action-slot idea: its Lua holds 215 fixed custom text emotes, rather than a player-editable list of native emote tokens. Its per-character configuration and 90-second cooldown distinguish it from the earlier BuxbrewCharge and later ROAR systems. The complete [source-grounded development timeline](EMOTE_FAMILY_HISTORY.md) distinguishes related experiments and later revisions.

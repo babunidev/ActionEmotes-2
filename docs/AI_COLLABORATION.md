@@ -28,3 +28,7 @@ Preserve the author's own voice and the historical version of the prose. Keep an
 ## November 2026 — documenting the new project name
 
 After placing my first addon in the Action Emotes series, I renamed the **Buxbrew** repository to **ActionEmotes-2**. My AI assistant updated the current documentation at my request, keeping the original runtime identifiers visible and the history distinct from Action Emotes #1. This was documentation work, not an AI-led decision to change the gameplay or proof of a successful in-game test.
+
+## Related development history
+
+Action Emotes #2 (Buxbrew/MadAxeBuxbrew) is the **written-roleplay branch** of the same action-slot idea: its Lua holds 215 fixed custom text emotes, rather than a player-editable list of native emote tokens. Its per-character configuration and 90-second cooldown distinguish it from the earlier BuxbrewCharge and later ROAR systems. The complete [source-grounded development timeline](EMOTE_FAMILY_HISTORY.md) distinguishes related experiments and later revisions.

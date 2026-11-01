@@ -56,3 +56,7 @@ These shifts are supported by dated Git changes. The original discussion and app
 - [Human–AI contribution method](docs/AI_COLLABORATION.md) · [Development instructions](AGENTS.md)
 
 **Documentation evidence:** source, manifest, and selected Git commit diffs. **Verification:** static repository inspection and Markdown-link checks only; no in-game execution.
+
+## Related expressive-addon history
+
+Action Emotes #2 (Buxbrew/MadAxeBuxbrew) is the **written-roleplay branch** of the same action-slot idea: its Lua holds 215 fixed custom text emotes, rather than a player-editable list of native emote tokens. Its per-character configuration and 90-second cooldown distinguish it from the earlier BuxbrewCharge and later ROAR systems. The [family history](docs/EMOTE_FAMILY_HISTORY.md) explains how later guild versions introduced user-editable native emote registries, and how Flourish Forever moved to successful-spellcast events.

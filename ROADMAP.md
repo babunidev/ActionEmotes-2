@@ -35,3 +35,7 @@ Record build, addon load order, steps, logs/observed output and exact commit for
 - Confirm how the internal “MadAxeBuxbrew” persona relates to other canon Buxbrew characters.
 
 **No changes to these mechanics or answers were made in the documentation-only pass.**
+
+## Related development history
+
+Action Emotes #2 (Buxbrew/MadAxeBuxbrew) is the **written-roleplay branch** of the same action-slot idea: its Lua holds 215 fixed custom text emotes, rather than a player-editable list of native emote tokens. Its per-character configuration and 90-second cooldown distinguish it from the earlier BuxbrewCharge and later ROAR systems. The complete [source-grounded development timeline](docs/EMOTE_FAMILY_HISTORY.md) distinguishes related experiments and later revisions.

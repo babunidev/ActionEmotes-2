@@ -51,3 +51,7 @@ The manifest declares `## SavedVariablesPerCharacter: MadAxeBuxbrewDB`, **not** 
 ## Packaging
 
 The repository contains `Buxbrew.lua` and `Buxbrew.toc`; manifest title **Buxbrew**, internal slash namespace **MADAXEBUXBREW**, internal source header **MadAxeBuxbrew**. Their difference is historical naming, not a required rename. A 2025-09-12 manifest commit aligned the filename reference to the actual Lua file.
+
+## Related development history
+
+Action Emotes #2 (Buxbrew/MadAxeBuxbrew) is the **written-roleplay branch** of the same action-slot idea: its Lua holds 215 fixed custom text emotes, rather than a player-editable list of native emote tokens. Its per-character configuration and 90-second cooldown distinguish it from the earlier BuxbrewCharge and later ROAR systems. The complete [source-grounded development timeline](EMOTE_FAMILY_HISTORY.md) distinguishes related experiments and later revisions.

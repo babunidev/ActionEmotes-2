@@ -27,3 +27,8 @@ The header already reported **2.5.5 in the first available upload**. Earlier ite
 - The GitHub repository was renamed from `Buxbrew` to `ActionEmotes-2` at my direction.
 - At my request, AI aligned documentation with **Action Emotes #2** and preserved the distinct historical addon identifiers.
 - Documentation only: no Lua or TOC behavior changed; no in-game test performed.
+
+## 2026-11-01 — family-history documentation
+
+- Linked [the full expressive-addon chronology](docs/EMOTE_FAMILY_HISTORY.md) and distinguished the 215 authored text emotes from the later player-editable game-emote registry.
+- No runtime or packaging changes.

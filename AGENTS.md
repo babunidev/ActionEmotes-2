@@ -26,3 +26,7 @@
 The repository is **ActionEmotes-2**, displayed publicly as **Action Emotes #2**. Its historical installed addon and source files are **Buxbrew**, with internal `MadAxeBuxbrew` identifiers; preserve them until an explicitly approved code migration. This is a distinct project from Action Emotes #1.
 
 Use **Babuni** for the human identity and **babuni.dev** for the portfolio/platform. Tell public-facing project stories from Babuni's first-person point of view. Never begin a narrative sentence with `I` or `My`; weave first-person pronouns naturally. Use “creative” for a human role label, not “creator.” Accurately credit AI for research, code or writing where documented, without inventing original conversations or tests. Technical references may use neutral voice.
+
+## Related-addon boundaries
+
+Consult [the expressive-addon family history](docs/EMOTE_FAMILY_HISTORY.md) when describing origins. This project's 215 authored text lines are fixed in source and sent as chat emotes; they are not the player-editable native-emote registry developed later for Roar Guild. Attribute original creative choices to Babuni, AI assistance only where evidenced.

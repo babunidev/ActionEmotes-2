@@ -36,3 +36,7 @@ The addon posts the selected line in WoW's `EMOTE` channel. The text describes a
 The 90-second interval restrains chat spam, but public text emotes may still be inappropriate in some groups. Players can clear the watched slot when not using the feature. Testing should include whether the watch messages and timer output are understandable, whether Unicode punctuation renders, and whether repeated pressing affects the underlying action.
 
 No UI redesign or new behavior is authorized by this document.
+
+## Related development history
+
+Action Emotes #2 (Buxbrew/MadAxeBuxbrew) is the **written-roleplay branch** of the same action-slot idea: its Lua holds 215 fixed custom text emotes, rather than a player-editable list of native emote tokens. Its per-character configuration and 90-second cooldown distinguish it from the earlier BuxbrewCharge and later ROAR systems. The complete [source-grounded development timeline](EMOTE_FAMILY_HISTORY.md) distinguishes related experiments and later revisions.
