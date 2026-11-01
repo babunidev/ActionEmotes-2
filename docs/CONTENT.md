@@ -1,6 +1,6 @@
-# Buxbrew — emote writing and content register
+# Action Emotes #2 — emote writing and content register
 
-**Creator:** Babuni.dev  
+**Creator:** Babuni  
 **Source:** `local EMOTES = { ... }` in `Buxbrew.lua`.
 
 ## Current content inventory
@@ -34,11 +34,11 @@ The categories are **editorial analysis**, not separately tagged lists in the Lu
 
 The initial upload on **2025-09-12** contained more fist fighting, drinking/tankard props and bawdy bodily imagery. A large **2025-10-02** update moved much of the wording toward weapons, gauntlets, armor and broader battle exuberance. It also greatly increased the size of the pool. Git proves that the prose changed; it does not by itself prove the author’s motive or that an outside policy drove the rewrite.
 
-Avoid publishing older lines in a portfolio without checking whether Babuni.dev wishes to preserve them verbatim as historical creative material. A respectful summary can preserve the direction of change without turning rejected or superseded copy into the lead presentation.
+Avoid publishing older lines in a portfolio without checking whether Babuni wishes to preserve them verbatim as historical creative material. A respectful summary can preserve the direction of change without turning rejected or superseded copy into the lead presentation.
 
 ## Maintenance and attribution
 
-- Keep Babuni.dev as creative author.
+- Keep Babuni as creative author.
 - If content is revised, link the exact commit and explain which voice, metaphor or limitation changed and why, based on an actual creator decision.
 - Do not treat source text as an automatic performance test of the chat system.
 - Do not conflate this character's story with other Buxbrew lore purely on the basis of a shared name.
