@@ -1,6 +1,6 @@
-# Buxbrew — changelog
+# Action Emotes #2 — changelog
 
-**Creator and author:** Babuni.dev  
+**By:** Babuni  
 The entries below are **repository-history evidence**, not claimed public release dates.
 
 ## 2026-10-26 — expanded documentation
@@ -20,3 +20,10 @@ The entries below are **repository-history evidence**, not claimed public releas
 | 2026-10-26 | `99ea2af`, `824178a`, `863cee9`, `c2eb1c7` | Author credit, README, first documentation scaffold and navigation added. |
 
 The header already reported **2.5.5 in the first available upload**. Earlier iterations 1.0–2.5.4 cannot be reconstructed from this repository's visible history and must not be fabricated.
+
+
+## 2026-11-01 — Action Emotes #2 repository naming
+
+- The GitHub repository was renamed from `Buxbrew` to `ActionEmotes-2` at my direction.
+- At my request, AI aligned documentation with **Action Emotes #2** and preserved the distinct historical addon identifiers.
+- Documentation only: no Lua or TOC behavior changed; no in-game test performed.
