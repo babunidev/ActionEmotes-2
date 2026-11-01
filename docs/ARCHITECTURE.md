@@ -1,4 +1,4 @@
-# Buxbrew — technical architecture (2.5.5)
+# Action Emotes #2 — technical architecture (2.5.5)
 
 **Source:** `Buxbrew.lua` and `Buxbrew.toc` as inspected on 2026-10-26. Static code reading only.
 
