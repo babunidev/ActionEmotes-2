@@ -1,4 +1,4 @@
-# Action Emotes #2 — creative and technical development journal
+# Action Emotes #2 — development journal
 
 **By:** Babuni  
 **Prepared from:** `Buxbrew.lua`, `Buxbrew.toc`, README and selected GitHub commits, reviewed 2026-10-26. Where no original conversation exists in the available evidence, this is a **retrospective reconstruction**, not a transcript.
