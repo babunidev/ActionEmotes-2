@@ -19,7 +19,7 @@
 - The header claims Lua 5.0 compatibility but command parsing uses `string.match`; do not describe game-client support as proven until tested.
 - `SendChatMessage(..., "EMOTE")` posts text: it does not carry out the described animation.
 - Reproduce verified test steps and results, not assumptions.
-- No automated license inference: the inspected repository contains no `LICENSE` file.
+- The original software is now explicitly MIT-licensed under `LICENSE` (Babuni's 13 November 2026 decision). Preserve third-party notices.
 
 ## Current naming and publication voice
 
