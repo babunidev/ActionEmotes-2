@@ -56,3 +56,7 @@ Having chosen **Action Emotes #1** for my earliest action-slot experiment, I ren
 ## 1 November 2026 — the written-emote branch in context
 
 Comparing these projects again made the distinction clearer: this one gave my character a library of written actions, not an expandable registry of game-native emotes. My AI assistant checked the 215-line source against the fixed battle-emote pools, the later Roar Guild registry and Flourish Forever's spell-aware controls. The [shared history](EMOTE_FAMILY_HISTORY.md) records the branches without suggesting a missing conversation or direct code succession. Documentation was revised; no runtime tests or code edits were made.
+
+## 2026-11-13 — Giving the repository clear permissions
+
+Public source alone did not explain what others could reuse, so I approved MIT for the original addon code. AI assistance added the license and brought the project notes into agreement, without changing how the application runs. Other people's content retains its own terms.
