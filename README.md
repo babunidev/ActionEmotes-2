@@ -40,7 +40,7 @@ The cooldown is fixed in source. There is no in-game text editor, custom chance 
 - **Hook interactions:** Buxbrew replaces global `UseAction` while forwarding to its captured original. Other action-hook addons may interact through load order.
 - **Cooldown at startup:** `LAST_EMOTE_TIME` starts at zero, so the first attempt depends on the client's current `GetTime()`.
 - **Roleplay delivery:** sending to `EMOTE` depends on the game's chat rules. These lines describe actions; the addon does not physically animate its described weapon flourishes.
-- **License:** no `LICENSE` file was present in the inspected repository. Do not assume a license without the creator's choice.
+- **License:** original software is now licensed under [MIT](LICENSE) (13 November 2026).
 
 ## Where my project came from
 
