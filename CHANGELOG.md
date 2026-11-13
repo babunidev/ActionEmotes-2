@@ -32,3 +32,8 @@ The header already reported **2.5.5 in the first available upload**. Earlier ite
 
 - Linked [the full expressive-addon chronology](docs/EMOTE_FAMILY_HISTORY.md) and distinguished the 215 authored text emotes from the later player-editable game-emote registry.
 - No runtime or packaging changes.
+
+## 2026-11-13 — License and rights
+
+- Established MIT for original software and updated repository documentation to explain the permission boundary.
+- Preserved third-party authorship and external assets' separate terms. No application behavior or runtime verification is claimed.
